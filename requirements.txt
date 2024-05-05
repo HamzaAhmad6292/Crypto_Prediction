@@ -1,0 +1,10 @@
+jupyter
+twython==3.6.0
+pandas==0.20.1
+matplotlib==2.0.2
+sklearn
+tqdm
+xgboost
+vaderSentiment==2.5
+findspark
+plotly==2.5.1
